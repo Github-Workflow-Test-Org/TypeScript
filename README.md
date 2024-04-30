@@ -9,7 +9,7 @@ including Grunt and Intern support!
 
 ![](https://www.sitepen.com/images/headerLogo.png)
 
-SitePen has a 10-year history in open source. Our first release was the Dojo Toolkit, and we continue to foster the 
+SitePen has a 10-year history in open source. Our first release was the Dojo Toolkit, and we continue to foster the s
 open-source community through the Dojo Foundation, which oversees such projects as grunt and lodash. We are a 
 contributing member to, and creator of, Intern, Mayhem, dgrid, dstore, among others. We consult as expert advisors to 
 international companies and startups, and train their developers.
