@@ -2,7 +2,7 @@
 
 Enjoy these delightful samples taken from [SitePen](http://sitepen.com)'s TypeScript in Depth.
 
-In addition to the samples, there is a complete development environment for working with TypeScript s
+In addition to the samples, there is a complete development environment for working with TypeScript
 including Grunt and Intern support! 
 
 ## About Us
